@@ -60,6 +60,7 @@ body a:hover
   max-height: 100%;
   width: auto;
   height: auto;
+  margin-top: -50px;
 }
 
 .full-width
@@ -423,10 +424,6 @@ h1.big-title
 {
   position: relative;
   top: 0;
-  padding-bottom: 100px;
-  padding-top: 100px;
-  padding-left: 100px;
-  padding-right: 100px;
 }
 #features .content-wrapper
 {
@@ -485,6 +482,7 @@ h1.big-title
   line-height: 26px;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   text-align: justify;
+  height: auto;
   color: #1B2834;
 }
 
@@ -537,6 +535,7 @@ h1.big-title
   text-align: center;
   padding: 100px 0;
   width: 100%;
+  z-index: 100;
 }
 .footer img
 {
@@ -751,7 +750,7 @@ h1.big-title
   }
   #ourcustomer .section-content-holder
   {
-    padding-bottom: 0;
+    padding-bottom: 0px;
     width: 100%;
     padding: 100px;
     padding-bottom: 600px;
@@ -1123,7 +1122,10 @@ h1.big-title
     text-align: center;
     color: #1B2834;
   }
-
+  #theteam .section-content-holder
+  {
+    padding: 30px;
+  }
 }
 
 @media screen and (max-width: 600px) {
