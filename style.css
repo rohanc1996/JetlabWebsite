@@ -532,7 +532,6 @@ h1.big-title
 #theteam .section-content-holder
 {
   padding-bottom: 0;
-  padding-right: 50px;
 }
 
 #theteam .content-wrapper
@@ -652,8 +651,9 @@ h1.big-title
 
     .section-num span
     {
+        margin-left: 20px;
         font-size: 70px;
-        padding-right: 10px;
+        margin-right: 10px;
     }
 
     .section-title-holder h2
@@ -666,8 +666,8 @@ h1.big-title
     }
     #features .section-title-holder span
     {
-      padding-right: 50px;
-      font-size: 55px;
+      padding-right: 20px;
+      font-size: 60px;
     }
 /*
     .section-content-holder.right
