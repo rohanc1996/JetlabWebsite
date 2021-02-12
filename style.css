@@ -317,7 +317,7 @@ body a:hover
 {
   padding-bottom: 170px;
   background-color: #f2f2f2;
-  background-image:url(demo-images/background_img_01b.jpg);
+  background-image:url(images/landing_page.png);
   width: 100%;
   height: calc(100% - 2cm);
   background-repeat: repeat;
