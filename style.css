@@ -364,7 +364,8 @@ h1.big-title
   position: absolute;
   width: 360px;
   height: 55px;
-  left: 60%;
+  padding-right: 100px;
+  left: calc(100vw - 50px - 55% + 180px);
   top: 70vh;
 }
 .appstore-icons .google
@@ -1403,6 +1404,5 @@ h1.big-title
     text-align: center;
     line-height: 22px;
     width: 90%;
-    width: 70%;
   }
 }
