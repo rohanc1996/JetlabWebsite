@@ -1,7 +1,7 @@
 @font-face {
     font-family: Avenir;
     font-weight: bold;
-    src: url("./fonts/AvenirLTstd-Book.otf") format("opentype");
+    src: url("fonts/AvenirLTstd-Book.otf") format("opentype");
 }
 html{
   background-color: #f2f2f2;
