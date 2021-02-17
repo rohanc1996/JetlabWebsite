@@ -1,8 +1,3 @@
-@font-face {
-    font-family: Avenir;
-    font-weight: bold;
-    src: url("fonts/AvenirLTstd-Book.otf") format("opentype");
-}
 html{
   background-color: #f2f2f2;
 }
@@ -10,7 +5,7 @@ body
 {
   height: 100vh;
   width: 100vw;
-  font-family: Avenir;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
